@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Full-Stack Developer Banner">
+</p>
+
 # 👋 Hey, I'm Alex Mazur
 
 <div align="center">
@@ -95,6 +99,22 @@ I'm interested in working with international teams and contributing to product-f
 
 
 ---
+## Featured Projects
+
+### EventSphere
+A web platform for discovering and managing events.
+- Built with Next.js, React, TypeScript and Node.js.
+- Focused on responsive UI and smooth user experience.
+
+### FitTrack
+A mobile fitness application for tracking workouts and progress.
+- Built with React Native, Expo and Firebase.
+- Includes user authentication and data synchronization.
+
+### TaskFlow
+A task management application designed to simplify team workflows.
+- Built with React, TypeScript, NestJS and PostgreSQL.
+- Focused on task organization and backend functionality.
 
 ## 🧭 How I Work
 
