@@ -1,16 +1,113 @@
-## Hi there 👋
+# 👋 Hey, I'm Alex Mazur
 
-<!--
-**alexmazur854-hue/alexmazur854-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## **FULL-STACK DEVELOPER**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**React · Next.js · TypeScript · Node.js · NestJS**
+
+Web Applications · Full-Stack Development · Mobile Applications
+
+📍 Lviv, Ukraine | 🌍 Open to Remote Opportunities Across Europe
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full-Stack Developer based in Lviv, Ukraine. I build web and mobile applications, working across both frontend and backend development.
+
+My main technologies are **React, Next.js, TypeScript, Node.js, and NestJS**. I also work with **PostgreSQL, MongoDB, Redis, React Native, and AWS**.
+
+I'm interested in working with international teams and contributing to product-focused projects. **Open to fully remote opportunities with companies across Europe.**
+
+---
+
+## 🚀 What I Work On
+
+- Building responsive web applications with React and Next.js
+- Developing REST APIs and backend services with Node.js and NestJS
+- Designing and working with relational and NoSQL databases
+- Integrating third-party services and authentication
+- Developing cross-platform mobile applications with React Native
+- Improving application performance and code quality
+
+---
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-4A90E2?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📱 Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Mobile App Development](https://img.shields.io/badge/Mobile_App_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ☁️ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 📊 Other Skills
+
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-6C63FF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Agile Web Development](https://img.shields.io/badge/Agile_Web_Development-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge&logo=jest&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-181717?style=for-the-badge&logo=github&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software_Development-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Web Technologies](https://img.shields.io/badge/Web_Technologies-0078D4?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
+
+
+
+---
+
+## 🧭 How I Work
+
+- I prefer clear requirements and practical solutions.
+- I care about readable, maintainable code.
+- I pay attention to both user experience and technical implementation.
+- I value communication, feedback, and continuous improvement.
+- I like understanding how a feature fits into the bigger picture of a product.
+
+---
+
+## 📫 Let's Connect
+
+📍 Lviv, Ukraine  
+💼 Open to Full-Stack Developer opportunities  
+🌍 Interested in remote collaboration
