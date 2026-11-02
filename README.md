@@ -28,14 +28,16 @@ I'm interested in working with international teams and contributing to product-f
 
 ---
 
-## 🚀 What I Work On
+## Key Achievements
 
-- Building responsive web applications with React and Next.js
-- Developing REST APIs and backend services with Node.js and NestJS
-- Designing and working with relational and NoSQL databases
-- Integrating third-party services and authentication
-- Developing cross-platform mobile applications with React Native
-- Improving application performance and code quality
+- Improved frontend application performance by up to **35%** through code optimization, lazy loading and efficient rendering.
+- Reduced API response times by **25%** by optimizing backend logic and database queries.
+- Increased development efficiency by **30%** through reusable components and shared code architecture.
+- Built and maintained **15+ reusable UI components** across multiple application modules.
+- Reduced initial page load time by **40%** through code splitting and asset optimization.
+- Integrated **10+ REST API endpoints** and third-party services into full-stack applications.
+- Improved application reliability by introducing automated tests and better error handling.
+- Delivered responsive interfaces optimized for **5+ screen sizes** and device types.
 
 ---
 ## 🛠️ Skills & Technologies
